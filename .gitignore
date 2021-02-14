@@ -1,5 +1,1 @@
 .snakemake/
-slurm/logs/*
-data/assembly/*
-data/bam/*
-data/fastx/*
